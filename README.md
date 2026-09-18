@@ -1,4 +1,4 @@
-# smolagents-reporting-agent
+# Agentic-AI Reporting
 
 Agentic AI prototype built with [smolagents](https://github.com/huggingface/smolagents), Hugging Face's lightweight agent framework. A `CodeAgent` answers business questions in natural language by calling whitelisted SQL tools against a sales database.
 
